@@ -1,6 +1,6 @@
 ## Otus Project
 
-#### 2º Semestre - [Repositório](https://github.com/B1nary-Devs/OTUS-PROJECT)
+#### 1º Semestre - [Repositório](https://github.com/B1nary-Devs/OTUS-PROJECT)
 
 Parceiro Interno: Fatec 
 
