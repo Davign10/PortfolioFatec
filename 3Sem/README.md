@@ -96,15 +96,11 @@ Desenvolvimento:
          <td>Planejamento</td>
         </tr>
         <tr>
-         <td>HTML</td>
+         <td>Figma</td>
          <td>Criatividade</td>
-        </tr>
-         <tr>
-         <td>CSS</td>
-         <td>Flexibilidade</td>
-        </tr>
+        </tr>   
         <tr>
-         <td>Canva</td>
+         <td>MySql</td>
          <td>Responsabilidade</td>
         </tr>
       </tbody>
