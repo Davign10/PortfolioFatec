@@ -2,7 +2,7 @@
 
 #### 4º Semestre - [Repositório](https://github.com/B1nary-Devs/DOM-ROCK)
 
-Parceiro Acadêmico: [Jaia Software]([https://www.jaia.software/](https://github.com/B1nary-Devs/JAIA-SOFTWARE))
+Parceiro Acadêmico: [Jaia Software](https://www.jaia.software/)
 
 O sistema tem o objetivo de controlar anomalias identificadas em um Laudo de Inspeção Predial, com funcionalidades-chave como diferenciação de segmentos específicos de um edifício, cadastro de prestadores de serviço, geração eficiente de ordens de serviço e criação de relatórios detalhados. Esse sistema é crucial para melhorar a gestão e eficácia na correção de anomalias, promovendo a preservação do patrimônio e tomada de decisões informadas.
 
@@ -14,6 +14,13 @@ A equipe desenvolveu um sistema web abrangente que simplifica a gestão de prest
 
 <summary> Visualizar Contribuições como Desenvolvedor </summary> 
 
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/a86190e1-ce18-4f2e-b2cf-f0667b7d46d1">
+
+O código apresentado é uma função assíncrona chamada salvarAlteracoes, que tem como objetivo atualizar os dados de uma ordem de serviço. Dentro do try, o código busca executar uma operação. Caso algo dê errado durante a execução, o erro será capturado no bloco catch, permitindo que haja tratamento do erro e evite que a aplicação quebre. 
+
+A função faz uma requisição HTTP do tipo PUT utilizando a biblioteca axios para enviar dados para o servidor. O objetivo é atualizar uma ordem de serviço no backend. A URL da requisição é dinâmica, incluindo o idOrdem.value que é o identificador da ordem de serviço a ser editada.
+
+O corpo da requisição contém os dados a serem atualizados e o cabeçalho da requisição inclui um token de autorização no formato Bearer ${token}, que é utilizado para autenticar a requisição no servidor. 
 <br>
 
 </details>
@@ -27,6 +34,24 @@ A equipe desenvolveu um sistema web abrangente que simplifica a gestão de prest
         <th>Hard Skills</th>
         <th>Soft Skills</th>
       </thead>
+      <tbody>
+        <tr>
+         <td>Java</td>
+         <td>Comunicação</td>
+        </tr>
+        <tr>
+         <td>TypeScript</td>
+         <td>Adaptabilidade</td>
+        </tr>
+        <tr>
+         <td>Vue.js</td>
+         <td>Análise</td>
+        </tr>
+        <tr>
+         <td>Oracle</td>
+         <td>Responsabilidade</td>
+        </tr>   
+      </tbody>
 </table>
 
 ### Tecnologias Utilizadas
