@@ -49,6 +49,29 @@ Participar do meu primeiro projeto na faculdade foi uma experiência transformad
 
 Essa experiência inicial me mostrou que, com determinação e apoio, é possível aprender e contribuir em algo que inicialmente parecia muito além das minhas capacidades. Foi o primeiro passo para construir minha confiança e interesse em programação.
 
+### Hard Skills e Soft Skills
+
+<table>
+      <thead>
+        <th>Hard Skills</th>
+        <th>Soft Skills</th>
+      </thead>
+      <tbody>
+        <tr>
+         <td>Python</td>
+         <td>Colaboração</td>
+        </tr>
+        <tr>
+         <td>Scrum</td>
+         <td>Agilidade</td>
+        </tr>
+         <tr>
+         <td>Github</td>
+         <td>Proatividade</td>
+        </tr>
+      </tbody>
+</table>
+
 ### Tecnologia Utilizada
 
 <br>
