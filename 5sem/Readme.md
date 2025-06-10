@@ -16,7 +16,53 @@ O objetivo da aplicação é um dashboard interativo que centraliza e visualiza 
 
 ### Lições Aprendidas
 
+Durante o desenvolvimento do projeto Localhost305, tive a oportunidade de crescer tecnicamente e profissionalmente, explorando novas tecnologias e atuando de forma mais ativa na colaboração e suporte entre membros da equipe. Essa experiência foi marcante por me permitir aplicar conhecimentos em React e TypeScript, além de participar da integração com ferramentas de DevOps e contribuir para o desenvolvimento coletivo da equipe.
+
+Aprendizado Técnico Colaborativo:
+- Aprender React foi um dos grandes marcos desse projeto. Trabalhei em estreita colaboração com um colega mais experiente, o que acelerou meu entendimento sobre componentes, estados e boas práticas no desenvolvimento de interfaces. Esse aprendizado colaborativo foi essencial para minha evolução como desenvolvedor front-end e reforçou a importância da troca de conhecimento dentro da equipe.
+
+Desenvolvimento da Comunicação Técnica:
+- Conforme fui ganhando confiança no uso das tecnologias, comecei a ajudar membros que enfrentavam dificuldades. Ensinar colegas me levou a uma comunicação mais clara e, além de consolidar meu próprio entendimento. Essa troca fortaleceu o trabalho em equipe e contribuiu para um ambiente mais colaborativo e produtivo.
+
+Integração com DevOps
+- Outra experiência relevante foi a realização de testes de integração em conjunto com a equipe de DevOps. Entender como as aplicações se comportam no ambiente de entrega contínua ampliou minha visão sobre o ciclo de vida de um software. Passei a compreender melhor a importância da estabilidade, testes automatizados e integração contínua para garantir entregas mais confiáveis.
+
+Flexibilidade e Adaptação
+- O projeto exigiu adaptações constantes, tanto em termos técnicos quanto organizacionais. A necessidade de lidar com diferentes demandas, ferramentas e fluxos de trabalho me forçou a sair da zona de conforto e a exercitar a flexibilidade, característica essencial para ambientes de desenvolvimento ágil.
+
 ### Hard Skills e Soft Skills
+
+<table>
+      <th>Hard Skills</th>
+      <th>Soft Skills</th>
+      </thead>
+      <tbody>
+        <tr>
+         <td>Java</td>
+         <td>Escuta ativa</td>
+        </tr>
+        <tr>
+         <td>DevOps</td>
+         <td>Trabaho em equipe</td>
+        </tr>
+        <tr>
+         <td>Teste de Integração</td>
+         <td>Análise Crítica</td>
+        </tr>
+        <tr>
+         <td>React</td>
+         <td>Criatividade</td>
+        </tr>
+        <tr>
+         <td>TypeScript</td>
+         <td>Flexibilidade</td>
+        </tr> 
+        <tr>
+         <td>MySQL</td>
+         <td>Colaboração</td>
+        </tr>
+      </tbody>
+</table>
 
 ### Tecnologias Utilizadas
 
