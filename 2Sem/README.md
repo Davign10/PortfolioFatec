@@ -8,17 +8,9 @@ O +Emprego é uma aplicação desktop projetada para gerenciar e monitorar proce
 
 ### Contribuições Pessoais
 
-<details>
-
-<summary> Visualizar Contribuições como Desenvolvedor </summary> 
-
-<br>
-
 Desenvolvimento das Telas:
 
 Trabalhei em estreita colaboração com a equipe para implementar telas de alta qualidade, utilizando JavaFX e CSS para garantir uma interface visual atrativa e funcional. Participei ativamente da interpretação dos wireframes, ajustando os layouts conforme necessário durante o processo de desenvolvimento.
-
-Exemplo de código:
 
 </details>
 
