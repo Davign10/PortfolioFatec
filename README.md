@@ -22,11 +22,11 @@ Hoje, em 2025, estou concluindo minha formação com um sentimento de realizaç�
 * [3° Semestre](https://github.com/Davign10/PortfolioFatec/blob/main/3Sem/README.md)
 * [4° Semestre](https://github.com/Davign10/PortfolioFatec/blob/main/4Sem/README.md)
 * [5° Semestre](https://github.com/Davign10/PortfolioFatec/blob/main/5sem/Readme.md) 
-* [6° Semestre](https://github.com/Davign10/PortfolioFatec/blob/main/6Sem/README.md)
+* [6° Semestre](https://github.com/Davign10/PortfolioFatec/blob/main/6sem/README.md)
 
 ## Meus Principais Conhecimentos 
-Sou apaixonado por desenvolvimento front-end, mas também possuo amplo conhecimento em tecnologias voltadas ao desenvolvimento back-end. Entre todos meus conhecimentos, se 
-destacam: 
+Sou apaixonado por desenvolvimento front-end, mas também possuo amplo conhecimento em tecnologias voltadas ao desenvolvimento back-end e a banco de dados. Entre todos meus conhecimentos, se destacam: 
+
 * Java 
 * Spring Framework 
 * MySQL 
