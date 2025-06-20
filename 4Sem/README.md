@@ -1,6 +1,6 @@
 ## B1nary Inspec
 
-#### 4º Semestre - [Repositório](https://github.com/B1nary-Devs/DOM-ROCK)
+#### 4º Semestre - [Repositório](https://github.com/B1nary-Devs/JAIA-SOFTWARE)
 
 Parceiro Acadêmico: [Jaia Software](https://www.jaia.software/)
 
