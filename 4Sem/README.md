@@ -27,6 +27,12 @@ O corpo da requisição contém os dados a serem atualizados e o cabeçalho da r
 
 ### Lições Aprendidas
 
+- Primeira Experiência com Vue.js: Este projeto marcou o primeiro contato com o framework Vue.js. O processo envolveu entender a estrutura de componentes, o uso de diretivas, reatividade e comunicação entre componentes. Apesar dos desafios iniciais, o framework se mostrou eficiente e produtivo para construção de interfaces dinâmicas.
+
+- Integração com APIs: Aprender a realizar requisições HTTP com a biblioteca Axios, especialmente utilizando métodos como PUT para atualizar dados, foi essencial. A manipulação correta de URLs dinâmicas e o envio de tokens de autenticação no cabeçalho também reforçou conhecimentos sobre segurança e boas práticas em APIs RESTful.
+
+- Valor da Experiência do Usuário: A criação de uma landing page simples e funcional para novos clientes mostrou como uma interface acessível pode facilitar a interação, incentivar o uso e permitir feedbacks valiosos.
+
 ### Hard Skills e Soft Skills
 
 <table>
