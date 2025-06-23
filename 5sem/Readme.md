@@ -12,6 +12,40 @@ O objetivo da aplicação é um dashboard interativo que centraliza e visualiza 
 
 <summary> Visualizar Contribuições como Desenvolvedor </summary> 
 
+<br>
+
+Exemplos de Códigos:
+
+![image](https://github.com/user-attachments/assets/3def0af2-89ac-423b-9b5a-b16b70a31659)
+
+Este trecho do código lida com a autenticação do usuário e o controle de acesso com base em permissões. Os dados (token, nome e permissões) são armazenados no localStorage para uso durante a navegação.
+
+🔑 Permissões armazenadas (como "allowed_to_change") são usadas para restringir ações sensíveis, como edição e exclusão de dados de usuários. Essa abordagem garante que somente usuários autorizados executem essas ações.
+
+A função verifyLoggedIn garante que apenas usuários autenticados possam acessar o sistema. Em caso de token inválido ou ausência de usuário, redireciona para a tela de login.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/5a8f7a92-741f-4e2d-b799-8fca6aef5731)
+
+Este trecho trata da autenticação do usuário e do armazenamento local dos dados essenciais para navegação e controle de acesso
+Após o login bem-sucedido, os dados do usuário são salvos no localStorage, incluindo as permissões, que definem o que ele pode acessar ou modificar dentro da aplicação.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/273d4fa0-f117-4c3f-a62b-c3356e6249a6)
+
+Este código representa a lógica aplicada na tela de usuários, responsável por:
+
+- Carregar os dados da API
+- Controlar a exibição do modal de edição
+- Verificar permissões antes de permitir alterações
+
+Antes de abrir o modal de edição, a aplicação verifica se o usuário logado possui a permissão "allowed_to_change".
+Se não tiver, uma mensagem de erro é exibida e a ação é bloqueada, evitando modificações indevidas em dados pessoais.
+
+<br>
+
 </details>
 
 ### Lições Aprendidas
