@@ -15,6 +15,56 @@ garantindo que usuários possam acompanhar e otimizar os esforços de recuperaç
 
 <summary> Visualizar Contribuições como Desenvolvedor </summary> 
 
+<br>
+
+Desenvolvimento das telas: 
+
+- Criação de dashboards interativos com dados sobre áreas reflorestadas, facilitando a visualização e análise dos resultados.
+
+- Desenvolvimento de tela de cadastro de usuários, com foco em usabilidade e validações de dados.
+
+Implementação de tabelas administrativas com:
+
+- Informações detalhadas dos usuários.
+
+- Ações administrativas (como exclusão de usuários) em conformidade com a LGPD.
+
+<br>
+
+Exemplo de Código:
+
+![image](https://github.com/user-attachments/assets/2226425b-c5f9-4244-9cee-3422a5d13e7d)
+
+O código acima utiliza React e a biblioteca de gráficos ECharts para gerar um gráfico de barras horizontal com dados de técnicas de plantio e suas respectivas quantidades. <br>
+
+
+🧠 Explicação do Código <br>
+
+useEffect: Executa o código sempre que a variável planting for atualizada.
+
+planting: É uma lista de objetos com informações sobre plantios.
+
+quantities: Array contendo as quantidades plantadas.
+
+plantingTechniquess: Array com os nomes das técnicas de plantio utilizadas.
+
+setChartPlantingOptions: Função que define as configurações do gráfico.
+
+<br>
+
+🛠️ Configurações do Gráfico <br>
+
+Tooltip: Mostra informações ao passar o mouse sobre as barras.
+
+Grid: Define margens internas do gráfico.
+
+xAxis: Eixo horizontal, usado para mostrar as quantidades (valores).
+
+yAxis: Eixo vertical, mostrando as categorias (técnicas de plantio).
+
+Series: Conjunto de dados do gráfico, configurado como barras (type: 'bar').<br>
+
+
 </details>
 
 ### Lições Aprendidas
